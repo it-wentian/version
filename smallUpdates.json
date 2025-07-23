@@ -1,5 +1,5 @@
 {
-  "version": "1.8.6",
+  "version": "1.8.5",
   "date": "2025-07-19",
   "description": "修复地图加载BUG，优化游戏性能，新增新地图和混合文件。",
   "changes": {
