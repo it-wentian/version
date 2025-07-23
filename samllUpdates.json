@@ -1,0 +1,28 @@
+{
+  "version": "1.8.6",
+  "date": "2025-07-19",
+  "description": "修复地图加载BUG，优化游戏性能，新增新地图和混合文件。",
+  "changes": {
+    "修复": [
+      "地图加载BUG",
+      "部分界面文字错位"
+    ],
+    "优化": [
+      "游戏性能提升",
+      "加载速度提升"
+    ],
+    "新增": [
+      "新地图 NewMap.in",
+      "混合文件 SpecialMix.mix"
+    ]
+  },
+  "files": [
+    {
+      "name": "sayings.json",
+      "target": "sayings.json",
+      "url": "https://raw.githubusercontent.com/it-wentian/sayings/main/sayings.json",
+      "md5": "a1b2c3d4e5f67890123456789abcdef0",
+      "size": 102400
+    }
+  ]
+}
